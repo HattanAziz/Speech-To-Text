@@ -1,6 +1,11 @@
 # Speech-To-Text
 How to Convert Audio to Text with HTML , JS , CSS
 
+
+
+...
+
+
 <!doctype html>
 	<head>
 		<style>
@@ -85,3 +90,4 @@ How to Convert Audio to Text with HTML , JS , CSS
 		</script>
 	</body>
 </html>
+...
